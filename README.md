@@ -13,7 +13,7 @@ Este repositório reúne as atividades práticas desenvolvidas durante o curso d
 - **primeira-rede.pkt** – Primeira rede com PCs e switch  
 - **segunda-rede.pkt** – VLANs e conexões  
 - **quarta-rede-com-switch.pkt** – Comunicação entre redes diferentes  
-
+- **Construindo-redes-locais-com-servidor** - Atribuição automática de IP com DHCP/configuração do servidor DNS
 ## 🚀 Ferramentas
 - Cisco Packet Tracer  
 - Windows/Linux (ambiente de testes)
