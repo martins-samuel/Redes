@@ -10,9 +10,9 @@ Este repositório reúne as atividades práticas desenvolvidas durante o curso d
 - Conexões e protocolos de comunicação
 
 ## 💻 Simulações no Cisco Packet Tracer
-- **topologia-basica.pkt** – Primeira rede com PCs e switch  
-- **configuracao-switches.pkt** – VLANs e conexões  
-- **roteamento-estatico.pkt** – Comunicação entre redes diferentes  
+- **primeira-rede.pkt** – Primeira rede com PCs e switch  
+- **segunda-rede.pkt** – VLANs e conexões  
+- **quarta-rede-com-switch.pkt** – Comunicação entre redes diferentes  
 
 ## 🚀 Ferramentas
 - Cisco Packet Tracer  
